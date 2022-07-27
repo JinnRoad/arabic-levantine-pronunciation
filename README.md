@@ -1,4 +1,5 @@
-This repo contains the audio files for the textbook *FSI Levantine Arabic Course* found here [https://www.livelingua.com/course/fsi/levantine_arabic_course](https://www.livelingua.com/course/fsi/levantine_arabic_course).
+This repo contains the pdf and the audio files for the textbook *FSI Levantine Arabic Course* found here [https://www.livelingua.com/course/fsi/levantine_arabic_course](https://www.livelingua.com/course/fsi/levantine_arabic_course).
+The pronunciation course is 100 pages long and contains about 9 hours of audio, and is likely useful regardless of which type of Arabic you learn.
 
 The audio files in the link above are not well-named, there's at least one file missing (which I found elsewhere), and there are no time stamps, which makes it painful to search the audio for specific drills.
 
