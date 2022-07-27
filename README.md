@@ -1,3 +1,12 @@
+This repo contains the audio files for the textbook *FSI Levantine Arabic Course* found here [https://www.livelingua.com/course/fsi/levantine_arabic_course](https://www.livelingua.com/course/fsi/levantine_arabic_course).
+
+The audio files in the link above are not well-named, there's at least one file missing (which I found elsewhere), and there are no time stamps, which makes it painful to search the audio for specific drills.
+
+Below, you'll find the time stamps, which are also in the `timestamps.txt` file:
+
+(Incomplete)
+
+```
 File Drill  Timestamp
 
 01   B01    00:00
@@ -240,3 +249,4 @@ File Drill  Timestamp
 19   S06    x
 19   S07    x
 19   S08    x
+```
